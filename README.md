@@ -1,1 +1,1 @@
-# iwannabeacodingmaster
+# Self coding study
