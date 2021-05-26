@@ -1,8 +1,5 @@
 ### Self coding study
 ## 문제목록
-
-</br>
-
 https://code.plus/course/32
 ### 2021-05-30 - Codeplus 수학
 
