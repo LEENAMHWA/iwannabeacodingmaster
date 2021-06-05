@@ -2,7 +2,7 @@
 ## 문제목록
 https://code.plus/course/32
 
-### 2021-06-06 - Codeplus 브루트포스
+### 2021-06-13 - Codeplus 브루트포스
 
 - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [날짜 계산](https://www.acmicpc.net/problem/1476)
