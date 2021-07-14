@@ -3,9 +3,8 @@
 #### 1주차(~2021-07-18)
 ##### Greedy 개념 및 연습 (pp. 87-99, 4문제)
 ##### 백준 연습문제 해결
-- [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
-- [날짜 계산](https://www.acmicpc.net/problem/1476)
-- [이전 순열](https://www.acmicpc.net/problem/10973)
+- [동전 뒤집기](https://www.acmicpc.net/problem/1285)
+- [가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/12015)
 
 --------
 
