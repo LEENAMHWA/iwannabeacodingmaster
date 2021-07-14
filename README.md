@@ -1,9 +1,10 @@
-### Self coding study
-## 이것이 코딩 테스트다 with 파이썬
+## Self coding study
+### 이것이 코딩 테스트다 with 파이썬
 
 --------
 
-## 문제목록
+### 코드플러스 연습문제
+### 문제목록
 https://code.plus/course/32
 
 ### 2021-06-13 - Codeplus 브루트포스
