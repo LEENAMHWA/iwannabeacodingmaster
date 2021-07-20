@@ -2,7 +2,7 @@
 #### 이것이 코딩 테스트다 with 파이썬
 ##### 1주차 (~2021-07-18)
 - Greedy 개념 및 연습 (책 pp. 87-99, 4문제)
-##### 2주차 (~2021-07-25) programmers(https://programmers.co.kr/learn/courses/30/parts/12244)
+##### 2주차 (~2021-07-25) [programmers](https://programmers.co.kr/learn/courses/30/parts/12244)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
