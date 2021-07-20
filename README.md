@@ -1,18 +1,21 @@
 ## Self coding study
 #### 이것이 코딩 테스트다 with 파이썬
-#### 1주차(~2021-07-18)
+##### 1주차 (~2021-07-18)
 - Greedy 개념 및 연습 (책 pp. 87-99, 4문제)
-##### +) 백준 연습문제 해결
-- [동전 뒤집기](https://www.acmicpc.net/problem/1285)
-- [가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/12015)
-
+##### 2주차 (~2021-07-25) programmers(https://programmers.co.kr/learn/courses/30/parts/12244)
+- [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+- [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
+- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+- [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
+ 
 --------
 
 #### 코드플러스 연습문제
 ##### 문제목록
 https://code.plus/course/32
 
-##### 2021-06-13 - Codeplus 브루트포스
+##### Codeplus 브루트포스
 
 - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [날짜 계산](https://www.acmicpc.net/problem/1476)
@@ -20,7 +23,7 @@ https://code.plus/course/32
 - [1,2,3 더하기](https://www.acmicpc.net/problem/9095)
 - [다음 순열](https://www.acmicpc.net/problem/10972)
 
-##### 2021-05-30 - Codeplus 수학
+##### Codeplus 수학
 
 - [나머지](https://www.acmicpc.net/problem/10430)
 - [최대공약수, 최소공배수](https://www.acmicpc.net/problem/2609)
