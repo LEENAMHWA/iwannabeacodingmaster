@@ -1,5 +1,9 @@
 ## Self coding study
 #### 이것이 코딩 테스트다 with 파이썬
+
+##### 3주차 (~2021-08-01)
+- DFS/BFS 개념 및 연습 (책 pp. 149-152, 2문제)
+
 ##### 2주차 (~2021-07-25) [programmers](https://programmers.co.kr/learn/courses/30/parts/12244)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) ***
@@ -8,7 +12,6 @@
   (되도록 min, max 쓰지 말고 반복문으로 구해보기)
 - [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) *
   (while문 갯수 줄이기)
-- [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 
 ##### 1주차 (~2021-07-18)
 - Greedy 개념 및 연습 (책 pp. 87-99, 4문제)
