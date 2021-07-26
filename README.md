@@ -2,9 +2,12 @@
 #### 이것이 코딩 테스트다 with 파이썬
 ##### 2주차 (~2021-07-25) [programmers](https://programmers.co.kr/learn/courses/30/parts/12244)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
-- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) *
-- [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) *
-- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) ***
+  (복합 조건이 나오면 독립적으로 생각해보자!)
+- [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) **
+  (되도록 min, max 쓰지 말고 반복문으로 구해보기)
+- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) *
+  (while문 갯수 줄이기)
 - [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 
 ##### 1주차 (~2021-07-18)
@@ -20,9 +23,8 @@ https://code.plus/course/32
 
 - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [날짜 계산](https://www.acmicpc.net/problem/1476)
-- [이전 순열](https://www.acmicpc.net/problem/10973)
 - [1,2,3 더하기](https://www.acmicpc.net/problem/9095)
-- [다음 순열](https://www.acmicpc.net/problem/10972)
+- [다음 순열](https://www.acmicpc.net/problem/10972) *
 
 ##### Codeplus 수학
 
