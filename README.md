@@ -20,9 +20,8 @@ https://code.plus/course/32
 
 - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [날짜 계산](https://www.acmicpc.net/problem/1476)
-- [이전 순열](https://www.acmicpc.net/problem/10973)
 - [1,2,3 더하기](https://www.acmicpc.net/problem/9095)
-- [다음 순열](https://www.acmicpc.net/problem/10972)
+- [다음 순열](https://www.acmicpc.net/problem/10972) *
 
 ##### Codeplus 수학
 
