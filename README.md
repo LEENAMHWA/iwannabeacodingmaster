@@ -4,7 +4,9 @@
 ##### 3주차 (~2021-08-01)
 - DFS/BFS 개념 및 연습 (책 pp. 149-152, 2문제)
 - [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+  (Tree로 변환하여 경우의 수 생각하면 편함)
 - [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+  (경로찾기? 땅따먹깅 비슷학 생각)
 - [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 
 ##### 2주차 (~2021-07-25) [programmers](https://programmers.co.kr/learn/courses/30/parts/12244)
