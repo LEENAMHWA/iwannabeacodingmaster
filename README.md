@@ -6,8 +6,9 @@
 - [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
   (Tree로 변환하여 경우의 수 생각하면 편함)
 - [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
-  (경로찾기? 땅따먹깅 비슷학 생각)
+  (경로찾기? 땅따먹기 비슷하게 생각)
 - [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
+  (타겟넘버와 비슷하게 트리구조로 생각하며 간단)
 
 ##### 2주차 (~2021-07-25) [programmers](https://programmers.co.kr/learn/courses/30/parts/12244)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
