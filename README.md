@@ -3,6 +3,9 @@
 
 ##### 3주차 (~2021-08-01)
 - DFS/BFS 개념 및 연습 (책 pp. 149-152, 2문제)
+- [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+- [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+- [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 
 ##### 2주차 (~2021-07-25) [programmers](https://programmers.co.kr/learn/courses/30/parts/12244)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
