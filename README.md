@@ -10,7 +10,7 @@
 - [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
   (타겟넘버와 비슷하게 트리구조로 생각하며 간단)
 - [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
-  (예외처리 주의, list 복사하여 visited 사용할시에 []->extend 혹으 copy 사용할것 - 파이썬 한정)
+  (예외처리 주의, list 복사하여 visited 사용할시에 []->extend 혹은 copy 사용할것 - 파이썬 한정)
 
 ##### 2주차 (~2021-07-25) [programmers](https://programmers.co.kr/learn/courses/30/parts/12244)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
