@@ -1,4 +1,10 @@
-## Self coding study
+## Coding study (with 동규)
+## Rules
+##### 1주차 (~2021-08-21)
+- ???
+
+## Self Coding study
+
 #### 이것이 코딩 테스트다 with 파이썬
 ##### 5주차 (~2021-08-15)
 - Dynamic Programming 개념 및 연습 (책 pp. 217-228 , 2문제)
