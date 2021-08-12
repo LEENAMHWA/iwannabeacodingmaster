@@ -1,5 +1,5 @@
 ## Coding study (with 동규)
-## Rules
+#### Rules
 ##### 1주차 (~2021-08-21)
 - ???
 
