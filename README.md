@@ -1,15 +1,10 @@
-## Coding study (with 동규)
-#### Rules
-##### 풀 수 있는 만큼만 풀어오기!
-##### 1주차 (~2021-08-21)
-- ???
-
+## Coding study
 ## Self Coding study
+##### 7주차 (~2021-09-12)
+- Programmers KAKAO 기출 문제
 
 #### 이것이 코딩 테스트다 with 파이썬
-
-##### 6주차 (~2021-08-22)
-- Dynamic Programming 개념 및 연습 (책 pp. 217-228 , 2문제)
+##### 6주차 (~2021-09-05)
 - Programmers DP
 
 ##### 5주차 (~2021-08-15)
