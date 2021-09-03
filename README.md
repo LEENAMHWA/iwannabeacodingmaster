@@ -6,6 +6,10 @@
 #### 이것이 코딩 테스트다 with 파이썬
 ##### 6주차 (~2021-09-05)
 - Programmers DP
+- [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+  (DP테이블 구성시 규칙 잘 살펴보기!)
+- [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+  (모든 거쳐간 경로에서의 최대 구한 뒤 가장 나중에 마지막단의 결과만 출력)
 
 ##### 5주차 (~2021-08-15)
 - Dynamic Programming 개념 및 연습 (책 pp. 217-228 , 2문제)
