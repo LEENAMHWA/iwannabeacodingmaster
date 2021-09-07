@@ -2,7 +2,10 @@
 ## Self Coding study
 ##### 7주차 (~2021-09-12)
 - Programmers KAKAO 기출 문제
-
+- [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
+  (정규식 표현 쓰기)
+- [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
+  (iteration의 combinations 사용)
 #### 이것이 코딩 테스트다 with 파이썬
 ##### 6주차 (~2021-09-05)
 - Programmers DP
