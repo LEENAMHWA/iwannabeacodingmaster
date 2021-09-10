@@ -6,6 +6,8 @@
   (정규식 표현 쓰기)
 - [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
   (iteration의 combinations 사용)
+- [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+  (효율성 연습하기)
 #### 이것이 코딩 테스트다 with 파이썬
 ##### 6주차 (~2021-09-05)
 - Programmers DP
