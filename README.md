@@ -4,7 +4,7 @@
 - [데스 나이트, BFS](https://www.acmicpc.net/problem/16948)
   (BFS 사용시 visited list 까먹지 말기!)
   
-- SQL
+SQL
 - [SELECT, SUM/MAX/MIN, GROUP BY, JOIN](https://programmers.co.kr/learn/challenges)
 
 ##### 7주차 (~2021-09-12)
