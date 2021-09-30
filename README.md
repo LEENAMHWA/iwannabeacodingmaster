@@ -1,9 +1,12 @@
 ## Coding study
 ## Self Coding study
-##### 8주차 (~2021-09-12)
+##### 8주차 (~2021-09-21)
 - 부족하다고 생각되는 부분 문제 풀이
 - [데스 나이트, BFS] (https://www.acmicpc.net/problem/16948)
   (BFS 사용시 visited list 까먹지 말기!)
+  
+SQL
+- [SELECT, SUM/MAX/MIN, GROUP BY, JOIN] (https://programmers.co.kr/learn/challenges)
 
 ##### 7주차 (~2021-09-12)
 - Programmers KAKAO 기출 문제
