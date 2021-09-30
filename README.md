@@ -1,4 +1,3 @@
-## Coding study
 ## Self Coding study
 ##### 8주차 (~2021-09-21)
 - 부족하다고 생각되는 부분 문제 풀이
