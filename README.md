@@ -1,4 +1,9 @@
 ## Self Coding study
+
+##### 9주차 (~2021-10-24)
+- 삼성 S/W 역량 테스트 대비 
+- [2048] (https://www.acmicpc.net/problem/12100)
+
 ##### 8주차 (~2021-09-21)
 - 부족하다고 생각되는 부분 문제 풀이
 - [데스 나이트, BFS](https://www.acmicpc.net/problem/16948)
