@@ -3,8 +3,11 @@
 ##### 9주차 (~2021-10-24)
 - 삼성 S/W 역량 테스트 대비
 - DFS와 BFS 용도 확실히 구분하기 (BFS는 주로 최단거리, DFS는 최대합 등을 구할때 쓰임)
+- 2016년도
 - [2048](https://www.acmicpc.net/problem/12100) - 반례는 맞는데 왜 틀리는지 모르겠...,
+- 2018년도
 - [아기상어](https://www.acmicpc.net/problem/16236) - BFS 용도 정확히 하기(청소년 상어에서 먹을 수 있는 최대값은 DFS로 구현)
+- 2020년도
 - [스타트택시](https://www.acmicpc.net/problem/19238) - BFS 여러번 반복 최대한 피할것, 백트래킹 활용하여 중간에 exit 및 결과값에 따른 예외 처리 확실히 할 것
 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) - 조건 눈좀 뜨고 보자.... 변수 값 변경 잘 볼것
 - [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) - dx, dy 시에 값 변경 유의할것, rotation시 대칭구조 이해할것
