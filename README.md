@@ -13,7 +13,7 @@
 - [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) - dx, dy 시에 값 변경 유의할것, rotation시 대칭구조 이해할것
 
 ###### 추가로 부족하다고 느끼는 Skills
-- [N-Queens](https://www.acmicpc.net/problem/9663) - DFS 재귀 방시 이해, 중가 중단조건 및 방법 잘 확인하기, 주로 더해 나가는 전수 조사때 많이 쓰임
+- [N-Queens](https://www.acmicpc.net/problem/9663) - DFS 재귀 방식 이해, 중간 중단조건 및 방법 잘 확인하기, 주로 더해 나가는 브루트 포스에 많이 쓰임
 
 ##### 8주차 (~2021-09-21)
 - 부족하다고 생각되는 부분 문제 풀이
