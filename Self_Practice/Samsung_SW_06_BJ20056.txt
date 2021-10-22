@@ -1,8 +1,0 @@
-import sys
-
-N, M, K = list(map(int,sys.stdin.readline().split()))
-
-f_map = []
-for r_idx in range(M):
-    # 파이어볼 정보 받기
-    f_map.append(list(map(int,sys.stdin.readline().split())))
