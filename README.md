@@ -11,9 +11,11 @@
 - [스타트택시](https://www.acmicpc.net/problem/19238) - BFS 여러번 반복 최대한 피할것, 백트래킹 활용하여 중간에 exit 및 결과값에 따른 예외 처리 확실히 할 것
 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) - 조건 눈좀 뜨고 보자.... 변수 값 변경 잘 볼것
 - [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) - dx, dy 시에 값 변경 유의할것, rotation시 대칭구조 이해할것
-<br>
+
+###### 추가로 부족하다고 느끼느 것들
 - Skills
 - [N-Queens](https://www.acmicpc.net/problem/9663) - DFS 재귀 방시 이해, 중가 중단조건 및 방법 잘 확인하기, 주로 더해 나가는 전수 조사때 많이 쓰임
+
 ##### 8주차 (~2021-09-21)
 - 부족하다고 생각되는 부분 문제 풀이
 - [데스 나이트, BFS](https://www.acmicpc.net/problem/16948)
