@@ -11,6 +11,7 @@
 - [스타트택시](https://www.acmicpc.net/problem/19238) - BFS 여러번 반복 최대한 피할것, 백트래킹 활용하여 중간에 exit 및 결과값에 따른 예외 처리 확실히 할 것
 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) - 조건 눈좀 뜨고 보자.... 변수 값 변경 잘 볼것
 - [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) - dx, dy 시에 값 변경 유의할것, rotation시 대칭구조 이해할것
+- [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) - 각 시행이 독립적으로 진행되는지 확인할것, map 초기화 잊지말기, 내림 올림 부호 잘 보기(ceil, floor)
 
 ###### 추가로 부족하다고 느끼는 Skills
 - [N-Queens](https://www.acmicpc.net/problem/9663) - DFS 재귀 방식 이해, 중간 중단조건 및 방법 잘 확인하기, 주로 더해 나가는 브루트 포스에 많이 쓰임
