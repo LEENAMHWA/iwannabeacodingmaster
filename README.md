@@ -1,5 +1,9 @@
 ## Self Coding study
 
+##### 10주차 (~2021-11-03)
+- 카카오 코딩테스트 대비 Hacker Rank
+- [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
+ 
 ##### 9주차 (~2021-10-24)
 - 삼성 S/W 역량 테스트 대비
 - DFS와 BFS 용도 확실히 구분하기 (BFS는 주로 최단거리, DFS는 최대합 등을 구할때 쓰임)
