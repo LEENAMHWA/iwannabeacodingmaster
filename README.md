@@ -3,7 +3,7 @@
 ##### 10주차 (~2021-11-03)
 - 카카오 코딩테스트 대비 Hacker Rank
 - [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
-@Searching은 Binary Search 애용하기, 되도록 반복 수행은 피하고 함수 모듈화 할것
+Searching은 Binary Search 애용하기, 되도록 반복 수행은 피하고 함수 모듈화 할것
  
 ##### 9주차 (~2021-10-24)
 - 삼성 S/W 역량 테스트 대비
