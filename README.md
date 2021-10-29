@@ -2,6 +2,7 @@
 
 ##### 10주차 (~2021-11-03)
 - 카카오 코딩테스트 대비 Hacker Rank
+- 맵 이동같은 문제는 되도록 규칙 생각할 것(BFS, DFS 쓰면 시간초과 오류날 가능성 높음)
 - [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
  *Searching은 Binary Search 애용하기, 되도록 반복 수행은 피하고 함수 모듈화 할것
  - [Plus Minus](https://www.hackerrank.com/challenges/one-month-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one)
