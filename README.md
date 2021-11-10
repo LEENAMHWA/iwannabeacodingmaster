@@ -1,5 +1,9 @@
 ## Self Coding study
 
+##### 11주차 (~2021-11-13)
+- LINE ADs 코딩테스트 대비 KAKAO 공채 문제 풀기
+- [Cache - 2018](https://programmers.co.kr/learn/courses/30/lessons/17680) - 제시된 조건 모두 구현할것
+- [문자열 압축 - 2021](https://programmers.co.kr/learn/courses/30/lessons/60057) - 제시된 조건 모두 구현할것
 ##### 10주차 (~2021-11-03)
 - 카카오 코딩테스트 대비 Hacker Rank
 - 맵 이동같은 문제는 되도록 규칙 생각할 것(BFS, DFS 쓰면 시간초과 오류날 가능성 높음)
