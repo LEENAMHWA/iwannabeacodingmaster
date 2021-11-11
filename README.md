@@ -2,8 +2,10 @@
 
 ##### 11주차 (~2021-11-13)
 - LINE ADs 코딩테스트 대비 KAKAO 공채 문제 풀기
-- [Cache - 2018](https://programmers.co.kr/learn/courses/30/lessons/17680) - 자나깨나 List Index 조심
-- [문자열 압축 - 2021](https://programmers.co.kr/learn/courses/30/lessons/60057) - 제시된 조건 모두 구현할것
+- [Cache - 2018](https://programmers.co.kr/learn/courses/30/lessons/17680)
+  >자나깨나 List Index 조심
+- [문자열 압축 - 2021](https://programmers.co.kr/learn/courses/30/lessons/60057)
+  >제시된 조건 모두 구현할것
 - [합승 택시 요금 - 2021](https://programmers.co.kr/learn/courses/30/lessons/72413)
   >그래프 최단거리(노드 및 간선 표시) - 플로이드 워샬 -> 시간복잡도가 n^3이므로 고려, 조건에 따라 바뀌는 값 주의, 조건 충족할 것
 ##### 10주차 (~2021-11-03)
